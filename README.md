@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**maxiscor7/maxiscor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋🏽, I'm [Maxi!](https://portfolio-cornalba.vercel.app/) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can find in me in the web 🌍
+[<img align="left" alt="Maxi Cornalba Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Maxi Cornalba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Maxi Cornalba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+[website]: https://portfolio-cornalba.vercel.app/
+[instagram]: https://www.instagram.com/cornalbamaxi/
+[linkedin]: https://www.linkedin.com/in/enrique-maximiliano-cornalba-1a2429184/

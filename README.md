@@ -1,6 +1,8 @@
 
 ### Hey 👋🏽, I'm [Maxi!](https://portfolio-cornalba.vercel.app/) 
 
+![Diseño sin título (4)](https://user-images.githubusercontent.com/99894721/223741175-ac2e916a-5fb6-4a69-8dfa-1a2e56264622.png)
+
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Maxi Cornalba Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

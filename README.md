@@ -9,7 +9,7 @@
 Hi, I'm Maxi Cornalba, a Full Stack web Developer 🚀 from Buenos Aires - Argentina, 
 I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I like to travel, train and play video games.
 I am currently looking for a job as a full stack or front end web developer, If you want to contact me I leave you my links below 👇
-
+<br/>
 
 *** You can find in me in the web 🌍
 [<img align="left" alt="Maxi Cornalba Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,6 +30,7 @@ I am currently looking for a job as a full stack or front end web developer, If 
 
 <br/>
 **Tech & Tools Preference**
+<br/>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">

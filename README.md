@@ -44,6 +44,7 @@ You can find in me in the web 🌍
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Redux-6600ff?style=flat&logo=redux&logoColor=fff">
 <img src="http://img.shields.io/badge/-PostgreSQL-3366ff?style=flat&logo=PostgreSQL&logoColor=white">
+<img src="http://img.shields.io/badge/-Sequelize-white?style=flat&logo=Sequelize&logoColor=007ACC">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">

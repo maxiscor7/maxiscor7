@@ -1,7 +1,7 @@
 
 *** Hey 👋🏽, I'm [Maxi!](https://portfolio-cornalba.vercel.app/) 
 
-![Diseño sin título (4)](https://user-images.githubusercontent.com/99894721/223741175-ac2e916a-5fb6-4a69-8dfa-1a2e56264622.png)
+![Front-end developer](https://github.com/maxiscor7/maxiscor7/assets/99894721/94b0d948-9feb-45cd-88b4-bd1a904a2e56)
 
 <br />
 <br />
